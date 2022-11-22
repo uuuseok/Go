@@ -17,6 +17,5 @@ func main() {
 		fmt.Println("Short Variable Test Success!")
 	}
 
-
 	fmt.Println(shortVar1, shortVar2, shortVar3)
 }
